@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#coupon_d{
+	width:100%;
+	height:350px;
+	background-color:#FFF;
+	text-align:center;
+	font-size:36px;	
+}
+#coupon_kongbai{
+	height:55px;
+	width:100%;
+}

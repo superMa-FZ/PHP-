@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+#top{
+	height:60px;
+	width:100%;
+}
+.personalcenter_div1{
+	width:100%;
+	height:85%;
+	background-color:#eee;
+	position:absolute;
+}
+
+.personalcenter_div11{
+	float:left;
+	width:15%;
+	height:400px;
+	background-color:#fff;
+	margin-left:15%;
+}
+.personalcenter_div11 ul{
+	list-style:none;
+}
+.personalcenter_div11 h2{
+	padding-left:30px;
+	padding-top:20px;
+}
+.personalcenter_div11 ul li{
+	padding-top:30px;
+}
+.personalcenter_div11 ul li a{
+	text-decoration:none;
+}
+
+.personalcenter_div2{
+	background-color:#fff;
+	width:50%;
+	height:700px;
+	margin-left:35%;
+}
+.personalcenter_div21{
+	background-color:#B9D8E8;
+	
+	height:250px;
+	text-align:center;
+}
+
+img{
+	margin-top:20px;
+	overflow:hidden;
+
+}
+.personalcenter_div21 p{
+	color:#FFC;
+	font-size:18px;
+}
+h4{
+	color:#FFF;
+	font-size:24px;
+}
+.personalcenter_div21 img{
+	height:100px;
+	width:10%;
+	border-radius:200px;
+}
+
+.personalcenter_div22{
+	height:90px;
+}
+
+.personalcenter_div22_1{
+	float:left;
+	text-align:center;
+	margin-left:200px;
+	margin-top:10px;
+}
+.personalcenter_div22_1 span{
+	color:#DBE9FD;
+	font-size:18px;
+}
+.personalcenter_div22_1 a:link{
+	color:#CCE6FB;
+}
+
+.menu{
+	width:100%;
+	height:60px;
+	border-bottom:1px solid #ccc;
+	padding-top:43%;
+}
+.menu ul{
+	position:absolute;
+	padding-left:30%;
+	margin-top:20px;
+	width:100%;
+}
+.menu ul li{
+	font-size:20px;
+	list-style:none;
+	float:left;
+	padding-left:80px;
+}
+.menu ul li:hover{
+	color:#CCC;
+}
+.footer{
+	text-align:center;
+}
+
+
+
+
+
+

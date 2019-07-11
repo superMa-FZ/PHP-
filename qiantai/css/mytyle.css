@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+}
+.box{
+	width: 50%;
+	margin-left:25%;
+}
+.list{
+	width: 30%;
+	float: left;
+}
+a{
+	font-size: 24px;
+	text-decoration: none;
+	color: lightgray;
+}
+.remark{
+	font-size: 20px;
+	padding-top: 10px;
+	margin-left: 0px;
+}
+.c1,.c2,.c3,.c4,.c5{
+	color:#306;
+}
+h3{
+	margin-left:200px;
+}
+.pj{
+	margin-top:10px;
+	width:50%;
+	margin-left:25%;
+}
+.fabu{
+	margin-left:200px;
+}
+.textarea1{
+	width:600px;
+	height:200px;
+}

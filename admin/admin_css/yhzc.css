@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+.cuowu{
+	background:#F00;	
+}
+.kuan_td_class{
+	width:25px;
+}
+.zhai_td_class{
+	height:32px;
+	width:300px;
+	vertical-align: top;
+}
+.yanzheng_td_class{
+	height:32px;
+	width:130px;	
+	vertical-align: top;
+}
+.ycang{
+	display:none;
+}
+.xianshi{
+    display:block;
+	color:#F00;	
+	
+}
